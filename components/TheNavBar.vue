@@ -21,15 +21,19 @@
 const menuItems = [
   {
     label: 'Home',
-    url: '/'
+    url: '#hero'
   },
   {
     label: 'About',
-    url: '/about'
+    url: '#about'
   },
   {
     label: 'Features',
-    url: '/features'
-  }
+    url: '#features'
+  },
+  {
+    label: "Testimonials",
+    url: "#testimonials",
+  },
 ];
 </script>
